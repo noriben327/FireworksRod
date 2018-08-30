@@ -1,8 +1,6 @@
 # FireworksRod
+■DL 右上の緑のClone or downloadから。
 
 花火がうてる杖。VRChatのワールド作成で使えます。
-
-DL
-https://github.com/noriben327/FireworksRod/raw/master/FireworksRod.unitypackage
 
 CC BY-NC
